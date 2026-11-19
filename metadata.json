@@ -1,0 +1,8 @@
+{
+  "name": "Ladakh Rush 3D",
+  "description": "High-speed 3D Himalayan vehicle runner across 150 levels in Leh Ladakh with 18 unlockable vehicles, iconic motorcycles, real stick-shift cars, achievements, and daily quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
